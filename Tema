@@ -10,7 +10,7 @@
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://github.com/PipeVPN/GLTema/raw/master/dex_wallpaper_3.jpeg", 
+      "value": "https://i.imgur.com/3ziStwn.png", 
       "name": "app_background_image"
     },
     {
@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://github.com/PipeVPN/GLTema/raw/master/logo.png", 
+      "value": "https://i.imgur.com/h3UjRjh.png", 
       "id": 2386, 
       "name": "app_logo"
     },
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "Seja bem-vindo(a) ao PipeVPN!!", 
+      "value": "SEJAM BEM VINDO(A)S AO GL TUNNEL MOD!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
