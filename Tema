@@ -10,7 +10,7 @@
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.imgur.com/pVxVdRH.jpg", 
+      "value": "https://raw.githubusercontent.com/PipeVPN/GLTema/master/wallpaper.jpg", 
       "name": "app_background_image"
     },
     {
@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.imgur.com/ncJ0epT.png", 
+      "value": "https://raw.githubusercontent.com/PipeVPN/GLTema/master/logo.png", 
       "id": 2386, 
       "name": "app_logo"
     },
